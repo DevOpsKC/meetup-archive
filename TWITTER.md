@@ -4,3 +4,4 @@ Twitter handles for DevOpsKC community members.
 * Aaron Blythe - [@ablythe](https://twitter.com/ablythe)
 * Josh Waldron - [@thejwaldev](https://twitter.com/thejwaldev)
 * Dustin Holub - [@ThePVD](https://twitter.com/ThePVD)
+* Eric Beahan - [@ebeahan](https://twitter.com/ebeahan)
