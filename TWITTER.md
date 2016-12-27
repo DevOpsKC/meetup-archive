@@ -6,3 +6,4 @@ Twitter handles for DevOpsKC community members.
 * Dustin Holub - [@ThePVD](https://twitter.com/ThePVD)
 * Eric Beahan - [@ebeahan](https://twitter.com/ebeahan)
 * Chris Saunderson - [@csaunderson](https://twitter.com/csaunderson)
+* Dan Barker - [@barkerd427](https://twitter.com/barkerd427)
