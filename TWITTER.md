@@ -5,3 +5,4 @@ Twitter handles for DevOpsKC community members.
 * Josh Waldron - [@thejwaldev](https://twitter.com/thejwaldev)
 * Dustin Holub - [@ThePVD](https://twitter.com/ThePVD)
 * Eric Beahan - [@ebeahan](https://twitter.com/ebeahan)
+* Dan Barker - [@barkerd427](https://twitter.com/barkerd427)
