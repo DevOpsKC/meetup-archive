@@ -1,3 +1,5 @@
+***Note: this repo has been archived, with a new one started: https://github.com/DevOpsKC/meetups***
+
 # Welcome!
 
 This is the official repository for the [DevOpsKC meetup](http://www.meetup.com/DevOps-Kansas-City/).
